@@ -1,0 +1,24 @@
+{
+  "name": "03-spies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dev": "npx mocha -w src/*.test.js",
+    "test": "npx mocha src/*.test.js",
+    "test:cov": "npx nyc npx mocha src/*.test.js",
+    "start": "node src/api.js"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.5.2",
+    "nyc": "^17.0.0",
+    "sinon": "^15.0.1",
+    "supertest": "^7.0.0"
+  }
+}
