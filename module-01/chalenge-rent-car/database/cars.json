@@ -1,0 +1,23 @@
+[
+	{
+		"id": "de2fa0a0-50b4-4430-8b27-16602d1b92a9",
+		"name": "Extended Cab Pickup",
+		"releaseYear": 2023,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "8bc7b56f-bf42-491d-8190-1a0320ff1904",
+		"name": "Wagon",
+		"releaseYear": 2023,
+		"available": true,
+		"gasAvailable": true
+	},
+	{
+		"id": "4df8727c-53b6-4432-b173-061aca9057be",
+		"name": "Cargo Van",
+		"releaseYear": 2024,
+		"available": true,
+		"gasAvailable": true
+	}
+]
