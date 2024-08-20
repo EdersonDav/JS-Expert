@@ -1,21 +1,21 @@
 [
 	{
-		"id": "de2fa0a0-50b4-4430-8b27-16602d1b92a9",
-		"name": "Extended Cab Pickup",
-		"releaseYear": 2023,
+		"id": "a571448d-6a2d-45cc-9534-75a5016c2f00",
+		"name": "Crew Cab Pickup",
+		"releaseYear": 2024,
 		"available": true,
 		"gasAvailable": true
 	},
 	{
-		"id": "8bc7b56f-bf42-491d-8190-1a0320ff1904",
-		"name": "Wagon",
-		"releaseYear": 2023,
+		"id": "6c1f59e0-bcaf-4f38-ad03-6af9ebf073fd",
+		"name": "Crew Cab Pickup",
+		"releaseYear": 2024,
 		"available": true,
 		"gasAvailable": true
 	},
 	{
-		"id": "4df8727c-53b6-4432-b173-061aca9057be",
-		"name": "Cargo Van",
+		"id": "ba4b53ea-a455-4c0a-8cbb-c37d5400f150",
+		"name": "Minivan",
 		"releaseYear": 2024,
 		"available": true,
 		"gasAvailable": true
