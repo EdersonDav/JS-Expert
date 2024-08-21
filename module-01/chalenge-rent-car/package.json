@@ -2,12 +2,13 @@
   "name": "chalenge-rent-car",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "test:dev": "npx mocha -w test/**/*.test.js",
     "test": "npx mocha test/**/*.test.js",
     "test:cov": "npx nyc npx mocha test/**/*.test.js",
-    "seed": "node ./seed"
+    "seed": "node ./seed",
+    "start": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,10 @@
     "mocha": "^10.7.3",
     "nyc": "^15.1.0",
     "sinon": "^9.2.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "supertest": "^7.0.0"
   }
 }
